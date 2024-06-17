@@ -1,27 +1,12 @@
 # Devlancer
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.4.
+DEVlancer es una plataforma innovadora diseñada para desarrolladores freelance que buscan conectar con clientes de todo el mundo. En DEVlancer, creemos en potenciar el talento y la creatividad de los desarrolladores, proporcionando un espacio donde puedan mostrar sus habilidades, encontrar proyectos emocionantes y construir su carrera freelance de manera exitosa. Nuestra misión es simplificar el proceso de contratación y gestión de proyectos, ofreciendo herramientas avanzadas para la colaboración, comunicación y pago seguro. Ya sea que estés buscando un desarrollador experto para tu próximo gran proyecto o seas un profesional en busca de nuevas oportunidades, DEVlancer es tu socio ideal en el mundo del desarrollo freelance. Únete a nuestra comunidad y lleva tu carrera al siguiente nivel con DEVlancer.
 
-## Development server
+## Versiones
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Este proyecto es realizado con Angular versión 18.0.4.
 
-## Code scaffolding
+## Correr aplicación
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+Instala paquetes con "npm install"
+Corre la aplicación con "npm start"
